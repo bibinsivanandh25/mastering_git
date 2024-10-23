@@ -1,4 +1,5 @@
-## Hi everyone, welcome to Git!
+<<<<<<< HEAD
+## Welcome to Git!
 
-- CS, here!
-- I'm adding this from `Feature-branch`
+- This is coming from `dev-bibin`
+- I'm adding this from `feature-branch`
