@@ -1,3 +1,4 @@
-## Hello, Git!
+## Hi everyone, welcome to Git!
 
-- I'm changing this one in `Feature-branch-1`
+- CS, here!
+- I'm adding this from `Feature-branch`
